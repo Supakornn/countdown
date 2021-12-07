@@ -1,2 +1,2 @@
-# Borntodev-JS-Project
-CountDown Web 
+# CountDown Web
+CountDown Web Project For Borntodev fundamental Javascripts
