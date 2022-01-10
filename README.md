@@ -1,2 +1,2 @@
 # CountDown Web
-CountDown Web Project For Borntodev fundamental Javascripts
+For fundamental Javascripts Course by BORNTODEV
